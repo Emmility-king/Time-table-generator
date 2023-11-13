@@ -189,10 +189,10 @@ function Filling() {
             for (let j = 1; j <= no_of_faculties; j++) {
                 sum += parseInt(week_hours[i - 1][j - 1]);
             }
-            if (sum > (no_of_Lectures * no_of_days)) {
-                alert("Lectures limit exceeded for Class " + i + " by " + (sum - (no_of_Lectures * no_of_days)) + " lectures");
-                return false;
-            }
+            // if (sum > (no_of_Lectures * no_of_days)) {
+            //     alert("Lectures limit exceeded for Class " + i + " by " + (sum - (no_of_Lectures * no_of_days)) + " lectures");
+            //     return false;
+            // }
         }
 
         for (let i = 1; i <= no_of_classes; i++) {

@@ -100,7 +100,6 @@ function Header() {
                         {/* <div className="centered"  > */}
 
                         <h1><strong>The time table Creator Website</strong></h1>
-                        <h3>Create your time table the AI way.</h3>
                         {/* </div> */}
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -116,7 +115,6 @@ function Header() {
 
                     <Carousel.Caption style={{ color: "black" }}>
                         <h1><strong>The time table Creator Website</strong></h1>
-                        <h3>Create your time table the AI way.</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={1000}>
@@ -130,7 +128,6 @@ function Header() {
 
                     <Carousel.Caption style={{ color: "black" }}>
                         <h1><strong>The time table Creator Website</strong></h1>
-                        <h3>Create your time table the AI way.</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={1000}>
@@ -144,7 +141,6 @@ function Header() {
 
                     <Carousel.Caption style={{ color: "black" }}>
                         <h1><strong>The time table Creator Website</strong></h1>
-                        <h3>Create your time table the AI way.</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={1000}>
@@ -158,7 +154,6 @@ function Header() {
 
                     <Carousel.Caption style={{ color: "black" }}>
                         <h1><strong>The time table Creator Website</strong></h1>
-                        <h3>Create your time table the AI way.</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={1000}>
@@ -172,7 +167,6 @@ function Header() {
 
                     <Carousel.Caption style={{ color: "black" }}>
                         <h1><strong>The time table Creator Website</strong></h1>
-                        <h3>Create your time table the AI way.</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
