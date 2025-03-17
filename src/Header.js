@@ -107,7 +107,7 @@ function Header() {
                 <Carousel.Item interval={1000}>
                     <img
                         className="d-block w-100"
-                        src="https://web.facebook.com/photo.php?fbid=595886063186919&set=t.100064529536635&type=3"
+                        src="https://factualng.com/wp-content/uploads/2024/01/ambrose-alli-university-logo.png"
                         alt="Second slide"
                         height="450"
                         width="100%"
