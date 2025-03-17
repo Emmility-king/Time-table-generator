@@ -43,7 +43,7 @@ function Footer() {
                             </Image>
                         </Row>
                         <Row className="ml-auto ">
-                            <p><small>© 2021 Copyright Time Table Creator</small></p>
+                            <p><small>© 2025 Copyright Reserved</small></p>
                         </Row>
                     </Col>
                     <Col className="ml-3" >
@@ -52,12 +52,12 @@ function Footer() {
                         </Row>
                         <br />
                         <Row>
-                            <a href="" style={{ color: "LightGrey" }}>Prasoon Jain</a>
+                            <a href="" style={{ color: "LightGrey" }}>PIP</a>
 
                         </Row>
                         <br />
                         <Row>
-                            <a href="" style={{ textAlign: "left", color: "LightGrey" }}>IET DAVV,<br /> Indore</a>
+                            <a href="" style={{ textAlign: "left", color: "LightGrey" }}>TekLearn,<br /> Givmi</a>
                         </Row>
                         <br />
                     </Col>
@@ -83,7 +83,7 @@ function Footer() {
                         </Row>
 
                     </Col>
-                    <Col >
+                    {/* <Col >
                         <Row>
                             <h4 style={{ color: "Smokewhite" }}>Products</h4>
                         </Row>
@@ -99,7 +99,7 @@ function Footer() {
                         <Row>
                             <a href="" style={{ color: "LightGrey" }}>Xmeme</a>
                         </Row>
-                    </Col>
+                    </Col> */}
 
                 </Row>
 

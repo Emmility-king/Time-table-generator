@@ -91,7 +91,7 @@ function Header() {
                 <Carousel.Item interval={2500}>
                     <img
                         className="d-block w-100"
-                        src="https://images.unsplash.com/photo-1617175093937-1eef16d106e3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE4NTI2NjYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600"
+                        src="https://i0.wp.com/wakaabuja.com/wp-content/uploads/2025/02/Ambrose-Alli-University.png?ssl=1"
                         alt="First slide"
                         height="450"
                         width="100%"
@@ -107,7 +107,7 @@ function Header() {
                 <Carousel.Item interval={1000}>
                     <img
                         className="d-block w-100"
-                        src="https://source.unsplash.com/1600x900/? sun"
+                        src="https://web.facebook.com/photo.php?fbid=595886063186919&set=t.100064529536635&type=3"
                         alt="Second slide"
                         height="450"
                         width="100%"
